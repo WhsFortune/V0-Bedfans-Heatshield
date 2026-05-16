@@ -81,6 +81,8 @@ Dieser Mod lenkt den Luftstrom seitlich um – mit einem Hitzeschild direkt auf 
 
 Nach der Montage einmal langsam Z homen und prüfen, dass der Schild die Heizmatte nicht berührt. Designter Spalt: ~3 mm.
 
+![Montiert unter der Heizmatte](Images/installed-mounted.jpg)
+
 ---
 
 ## Verkabelung

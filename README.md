@@ -81,6 +81,8 @@ This mod deflects the airflow sideways with a heatshield directly on the fans. T
 
 After mounting, slowly home Z and verify the shield clears the heat mat. Intended gap is ~3 mm.
 
+![Installed under the heat mat](Images/installed-mounted.jpg)
+
 ---
 
 ## Wiring
