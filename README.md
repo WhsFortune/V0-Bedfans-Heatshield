@@ -52,7 +52,7 @@ This mod deflects the airflow sideways with a heatshield directly on the fans. T
 | Part | Qty |
 |---|---|
 | 3010 blower fan, 24 V (GDSTime recommended) | 2 |
-| Wago 221-412 (2-pole) | 4 |
+| Wago 221-412 (2-pole) | 2 |
 
 ### Screws
 
@@ -77,7 +77,7 @@ This mod deflects the airflow sideways with a heatshield directly on the fans. T
 3. Lay the heatshield on top of the fans and drive **8× M3×16 BHCS from below** up through the fan holder, through the fans' corner holes, into the shield's inserts. This single stack holds the fans in the holder and the shield on top.
 4. Place the fan holder centered in the heat-mat cutout of the Fysetc CNC bed carrier and the Wago holder on the opposite side.
 5. Drive **2× M3×20 BHCS** from the outside of the Wago holder, through the carrier's side through-hole, into the M3 insert in the fan holder. One per side. This sandwich clamps the Wago holder, the bed carrier and the fan holder together – no tapping into aluminum.
-6. Insert the 4× Wago 221-412 into the slots in the Wago holder.
+6. Insert the 2× Wago 221-412 into the Wago holder.
 
 After mounting, slowly home Z and verify the shield clears the heat mat. Intended gap is ~3 mm.
 

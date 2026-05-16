@@ -52,7 +52,7 @@ Dieser Mod lenkt den Luftstrom seitlich um – mit einem Hitzeschild direkt auf 
 | Position | Menge |
 |---|---|
 | 3010 Blower Fan, 24 V (GDSTime empfohlen) | 2 |
-| Wago 221-412 (2-polig) | 4 |
+| Wago 221-412 (2-polig) | 2 |
 
 ### Schrauben
 
@@ -77,7 +77,7 @@ Dieser Mod lenkt den Luftstrom seitlich um – mit einem Hitzeschild direkt auf 
 3. Hitzeschild auf die Lüfter legen und **8× M3×16 BHCS von unten** durch Fan-Halter, durch die Eck-Bohrungen der Lüfter, in die Schild-Inserts schrauben. Dieser Stack hält die Lüfter im Halter und den Schild oben drauf.
 4. Fan-Halter mittig in die Heizmatten-Aussparung des Fysetc CNC Bedträgers setzen, Wago-Halter gegenüberliegend.
 5. **2× M3×20 BHCS** von außen am Wago-Halter durch die Bedträger-Bohrung in das M3-Insert im Fan-Halter schrauben. Eine pro Seite. Dieses Sandwich klemmt Wago-Halter, Bedträger und Fan-Halter zusammen – kein Gewindeschneiden ins Aluminium.
-6. 4× Wago 221-412 in die Slots im Wago-Halter einsetzen.
+6. 2× Wago 221-412 in den Wago-Halter einsetzen.
 
 Nach der Montage einmal langsam Z homen und prüfen, dass der Schild die Heizmatte nicht berührt. Designter Spalt: ~3 mm.
 
